@@ -1,0 +1,15 @@
+{
+  "originHash" : "24e6d29af9f8192b45f79f3885fbda031c8982573170a4aa607ffa9859e387e3",
+  "pins" : [
+    {
+      "identity" : "uikittabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Segyun/UIKitTabView",
+      "state" : {
+        "revision" : "467162303ec6ce13a577a1eb99f6a7ac9bf27af3",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
